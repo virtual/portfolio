@@ -111,9 +111,6 @@ nav li a:hover {
 .top .content {
   color: #fff;
   z-index: 1;
-  text-align: center;
-  top: 50%;
-  position: relative;
 }
 .top .content h2,
 .top .content h3 {

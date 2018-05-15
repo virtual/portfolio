@@ -45,7 +45,6 @@ nav li a:hover {
 
 .wrapper {
   padding: 1%;
-  padding-bottom: 3%;
   background-color: #fff;
   display: flex;
   flex-direction: column;
@@ -152,11 +151,10 @@ nav li a:hover {
   font-weight: bold;
   color: #fff;
   padding: 10px;
-  display: block;
   text-align: center;
   text-decoration: none;
-  width: 100%;
   margin: 0 10px;
+  margin-top: 0.75%;
 }
 .recent-work li {
   list-style: none;

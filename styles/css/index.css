@@ -5,6 +5,8 @@ html {
 
 body {
   background-color: #282828;
+  margin: 0;
+  padding: 0;
 }
 ul {
   margin: 0;
@@ -42,7 +44,7 @@ nav li a:hover {
 }
 
 .wrapper {
-  padding: 1% 5%;
+  padding: 1%;
   padding-bottom: 3%;
   background-color: #fff;
   display: flex;
@@ -105,7 +107,7 @@ nav li a:hover {
   color: #333;
   font-family: "Montserrat", sans-serif;
   padding-top: 54px;
-  height: 50vh;
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;

@@ -6,7 +6,10 @@ html {
 body {
   background-color: #282828;
 }
-
+ul {
+  margin: 0;
+  padding: 0;
+}
 nav {
   top: 0;
   position: fixed;

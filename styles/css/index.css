@@ -154,7 +154,9 @@ nav li a:hover {
   text-align: center;
   text-decoration: none;
   margin: 0 10px;
+  display: inline-block;
   margin-top: 0.75%;
+  width: 100%;
 }
 .recent-work li {
   list-style: none;

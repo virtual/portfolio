@@ -161,6 +161,7 @@ nav li a:hover {
 .recent-work li {
   list-style: none;
   padding: 10px;
+  flex: 0 0 20%;
 }
 .recent-work li img {
   width: 100%;
